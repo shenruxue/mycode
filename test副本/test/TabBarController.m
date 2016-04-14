@@ -41,7 +41,7 @@
     companyItem.image = [[UIImage imageNamed:@"iconfont-icon-user"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
     companyItem.selectedImage = [[UIImage imageNamed:@"iconfont-icon-user-1"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
     
-    
+    NSLog(@"这是在实验");
     
     
     // Do any additional setup after loading the view.
